@@ -1,5 +1,5 @@
 # QuizApp
-ompamy:CODTECH IT SOLUTION 
+Compamy:CODTECH IT SOLUTION 
 Name: Sakshi Waje
 intern Id: CTIS2244
 Domain: Front End Development
